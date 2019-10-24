@@ -17,8 +17,8 @@ sudo apt install -y python3-dev python3-pip
 #
 # Bootstrap installation of PIP
 #
-curl -sS https://bootstrap.pypa.io/get-pip.py >> setup.py
-sudo python3 setup.py
+curl -sS https://bootstrap.pypa.io/get-pip.py >> /tmp/setup.py
+sudo python3 /tmp/setup.py
 
 #
 # Downgrade PIP to earlier version that works
