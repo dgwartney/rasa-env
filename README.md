@@ -1,2 +1,2 @@
 # rasa-env
-Tutorial environment for RASA
+Configuration of Vagrant environment to use RASA bot toolkit in python.
